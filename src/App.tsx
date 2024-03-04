@@ -3,24 +3,8 @@ import React from "react";
 
 function App() {
   let items = [
-    "DunnyTM",
-    "Hannalee",
-    "Jason",
-    "Angela",
-    "Anne",
-    "Angeli",
-    "Ryu",
-    "Katie",
-    "Margaret",
-    "Joanne",
-    "Sunny",
-    "Eric",
-    "Panos",
-    "Nathaniel",
-    "Evan",
-    "Leo",
-    "Derek",
-    "Karen",
+    "Message Written here",
+    "continued",
   ];
 
   const handleSelectItem = (item: string) => {
@@ -31,7 +15,7 @@ function App() {
     <div>
       <ListGroup
         items={items}
-        heading="The Watering Hole"
+        heading="HAPPY BIRTHDAY KATRINA"
         onSelectItem={handleSelectItem}
       />
     </div>
