@@ -1,13 +1,14 @@
 import ListGroup from "./components/ListGroup";
 import React from "react";
+import styles from './MyComponent.module.css'; // Import CSS module
 
 
 function App() {
       
-  <div className="pink-background">
-      {/* Your component content */}
+  <div className={styles.pinkBackground}>
+      {/* Component content */}
     </div>
-    
+
   let items = [
     "Hope youre having a great day, are you enjoying 19?",
     "legal enough to get your own peach schnapps",
