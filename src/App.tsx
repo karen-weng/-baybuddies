@@ -44,12 +44,13 @@ function App() {
   };
 
   return (
-    <div>
+    <div style={{ backgroundColor: 'pink' }}>
       <ListGroup
         items={items}
         heading="  HAPPY BIRTHDAY KATRINA!!"
         onSelectItem={handleSelectItem}
       />
+
     </div>
 
   );
