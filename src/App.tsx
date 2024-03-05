@@ -1,7 +1,18 @@
 import ListGroup from "./components/ListGroup";
 import React from "react";
 
+import './MyComponent.css'; // Import your CSS file
+
+
+
+
 function App() {
+  return (
+    <div className="pink-background">
+      {/* Your component content */}
+    </div>
+  );
+
   let items = [
     "Hope youre having a great day, are you enjoying 19?",
     "legal enough to get your own peach schnapps",
