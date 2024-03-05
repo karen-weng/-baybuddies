@@ -3,8 +3,29 @@ import React from "react";
 
 function App() {
   let items = [
-    "Message Written here",
-    "continued",
+    "Hope youre having a great day, are you enjoying 19?",
+    "legal enough to get your own peach schnapps",
+    "maybe we can make a peach lantern for you sometime",
+    "anyways, CONGRATS on making it to 19",
+    "you know how your goal at somepoint was to make it to 18",
+    "well now you're 1 year past that",
+    "its been a wild year tho",
+    "like we had the whole transition from highschool to uni",
+    "classmates to roommates (room neighbours as well, sorry for kicking the wall when i study)",
+    "and the whole mess of Japan",
+    "I feel like the fact that we've had imperfect moments have made us stronger",
+    "",
+    "random funny things notable to 18:",
+    "you hinge adventures, SPEED, and boax (no clue how his name is spelt)",
+    "late night convos (unfit to be parents, your perfect family cousins & the chaotic family)",
+    "skating",
+    "your at one point favourite blue sweater",
+    "",
+    "cya next time same time",
+    "maybe ill know how to make a better website",
+    "you'll be in your major",
+    "both second years",
+    "HAPPY BIRHTDAY :D"
   ];
 
   const handleSelectItem = (item: string) => {
@@ -15,7 +36,7 @@ function App() {
     <div>
       <ListGroup
         items={items}
-        heading="HAPPY BIRTHDAY KATRINA!!"
+        heading="  HAPPY BIRTHDAY KATRINA!!"
         onSelectItem={handleSelectItem}
       />
     </div>
