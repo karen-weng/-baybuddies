@@ -20,6 +20,7 @@ function App() {
     "late night convos (unfit to be parents, your perfect family cousins & the chaotic family)",
     "skating",
     "your at one point favourite blue sweater",
+    "THE GUESS WHO, that was soo funny",
     "cake making (we need to do that again)",
     "",
     "cya next time same time",
