@@ -30,8 +30,8 @@ function App() {
     "maybe ill know how to make a better website",
     "you'll be in your major",
     "both second years",
-    "HAPPY BIRHTDAY :D",
-    "your favourite roommate,",
+    "HAPPY BIRTHDAY :D",
+    "your favourite roommate (hopefully),",
     "Karen",
   ];
 
