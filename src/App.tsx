@@ -25,7 +25,9 @@ function App() {
     "maybe ill know how to make a better website",
     "you'll be in your major",
     "both second years",
-    "HAPPY BIRHTDAY :D"
+    "HAPPY BIRHTDAY :D",
+    "your favourite roommate,",
+    "Karen"
   ];
 
   const handleSelectItem = (item: string) => {
