@@ -15,7 +15,7 @@ function App() {
     <div>
       <ListGroup
         items={items}
-        heading="HAPPY BIRTHDAY KATRINA"
+        heading="HAPPY BIRTHDAY KATRINA!!"
         onSelectItem={handleSelectItem}
       />
     </div>
