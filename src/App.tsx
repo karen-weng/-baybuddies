@@ -4,10 +4,6 @@ import styles from './MyComponent.module.css'; // Import CSS module
 
 
 function App() {
-      
-  <div className={styles.pinkBackground}>
-      {/* Component content */}
-    </div>
 
   let items = [
     "Hope youre having a great day, are you enjoying 19?",
