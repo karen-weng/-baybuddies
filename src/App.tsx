@@ -16,10 +16,11 @@ function App() {
     "I feel like the fact that we've had imperfect moments have made us stronger",
     "",
     "random funny things notable to 18:",
-    "you hinge adventures, SPEED, and boax (no clue how his name is spelt)",
+    "you hinge adventures, SPEED, and boaz (no clue how his name is spelt)",
     "late night convos (unfit to be parents, your perfect family cousins & the chaotic family)",
     "skating",
     "your at one point favourite blue sweater",
+    "cake making (we need to do that again)",
     "",
     "cya next time same time",
     "maybe ill know how to make a better website",
@@ -27,7 +28,7 @@ function App() {
     "both second years",
     "HAPPY BIRHTDAY :D",
     "your favourite roommate,",
-    "Karen"
+    "Karen",
   ];
 
   const handleSelectItem = (item: string) => {
